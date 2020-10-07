@@ -2,6 +2,10 @@
 <html>
 <head>
 <title>admin portal</title>
+<script>
+function alert() {}
+function prompt() {}
+</script>
 </head>
 <?php
 if($_GET["password"] == "isss-sandbox-pass") {
